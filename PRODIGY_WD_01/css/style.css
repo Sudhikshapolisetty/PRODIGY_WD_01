@@ -1,0 +1,29 @@
+.navbar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black; 
+    transition: background-color 0.3s ease-in-out; 
+    z-index: 1000;
+    font-style: italic;
+    justify-items: center;
+    justify-content: flex-start;
+}
+.body{
+    margin-top: 10%;
+}
+.navbar.scroll {
+    background-color: #eb9b9b; 
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+}
+
+.navbar:hover{
+    font-style: italic;
+}
