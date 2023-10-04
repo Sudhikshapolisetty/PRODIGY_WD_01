@@ -10,9 +10,7 @@
     justify-items: center;
     justify-content: flex-start;
 }
-.body{
-    margin-top: 10%;
-}
+
 .navbar.scroll {
     background-color: #eb9b9b; 
 }
@@ -24,6 +22,7 @@
     display: inline-block;
 }
 
-.navbar:hover{
-    font-style: italic;
+.navbar a:hover{
+    font-style:normal;
+    color: rgb(139, 22, 175);
 }
