@@ -1,7 +1,30 @@
 # PRODIGY_WD_01
 
-This is my First Task performing as an intern at "PRODIGYINFOTECH".It's about creating a successful responsive landing page that can change its color or style when scrolled or hovered on the nav options.
+# Responsive Landing Page 🌐
 
-Here, I created a navbar that changes its color in scrolling. The Navbar is sticky and can change its color.
+This project was developed as part of my virtual internship with PRODIGY-INFOTECH. It’s a fully responsive landing page that features a sticky navbar with dynamic color transitions, changing upon scroll and hover interactions.
 
+## Features 📋
 
+- **Responsive Design**: Optimized for all screen sizes, from mobile to desktop.
+- **Sticky Navbar**: Stays fixed at the top of the page while scrolling.
+- **Color Transitions**: Navbar color changes on scroll, with hover effects on navigation options for enhanced interactivity.
+
+## Technologies Used 💻
+
+- HTML5 & CSS3
+- JavaScript for scroll and hover effects
+- Any additional libraries, if used
+
+## How to View the Page 🚀
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/sudhikshapolisetty/responsive-landing-page.git
+    ```
+2. Open `index.html` in your preferred browser to explore the landing page.
+
+## Future Enhancements 🔧
+
+- Adding a theme toggle (dark/light mode)
+- Additional animations for smooth user experience
